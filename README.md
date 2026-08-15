@@ -1,9 +1,12 @@
-<img width="1105" height="994" alt="Screenshot 2026-08-16 014247" src="https://github.com/user-attachments/assets/4e2b7f29-3f5d-4aa3-90f4-5bfab56130b6" />
+<img width="1476" height="1042" alt="Screenshot 2026-08-16 015856" src="https://github.com/user-attachments/assets/0584b5ac-759a-4fba-92cb-0523fa8b8ab3" />
+<img width="1404" height="1068" alt="Screenshot 2026-08-16 015908" src="https://github.com/user-attachments/assets/b4e74c8d-3a00-4c00-a21e-6f7d7939046a" />
 <img width="1067" height="1036" alt="Screenshot 2026-08-16 014837" src="https://github.com/user-attachments/assets/f8122f8e-57dc-49b5-aba2-59147024128f" />
+<img width="1105" height="994" alt="Screenshot 2026-08-16 014247" src="https://github.com/user-attachments/assets/4e2b7f29-3f5d-4aa3-90f4-5bfab56130b6" />
+
 <img width="605" height="446" alt="Screenshot 2026-08-16 012337" src="https://github.com/user-attachments/assets/eb89eb8c-d17e-4e75-89c1-981ac7afd5fa" />
 <img width="605" height="542" alt="Screenshot 2026-08-16 011433" src="https://github.com/user-attachments/assets/4fedfe39-a13b-4daa-b9b0-87d3c007f29c" />
-<img width="1404" height="1068" alt="Screenshot 2026-08-16 015908" src="https://github.com/user-attachments/assets/b4e74c8d-3a00-4c00-a21e-6f7d7939046a" />
-<img width="1476" height="1042" alt="Screenshot 2026-08-16 015856" src="https://github.com/user-attachments/assets/0584b5ac-759a-4fba-92cb-0523fa8b8ab3" />
+
+
 # ⚡ Synapse SQL — Autonomous Natural Language Data Agent
 
 An enterprise-grade, autonomous Text-to-SQL data analytics platform powered by **LangGraph**, **Groq (Llama 3.3 70B)**, **FastAPI**, and **Next.js 15**.
